@@ -1,0 +1,9 @@
+The following CSS code snippet attempts to style elements with a specific class, but it doesn't work as expected due to a typo in the class name:
+
+```css
+.my-class {
+  color: blue;
+}
+```
+
+The intended class name is `my-class`, but a typo, such as `my_class` or `MyClass`, might prevent the styles from being applied.  This is a common error, especially in larger projects.
