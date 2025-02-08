@@ -1,0 +1,9 @@
+The solution involves carefully checking the class name and correcting any typos. Ensure the class name in the CSS selector exactly matches the class name used in the HTML.
+
+```css
+.my-class {
+  color: blue;
+}
+```
+
+In this corrected version, `my-class` accurately reflects the intended class name, ensuring that the styles are applied successfully.
